@@ -57,3 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
+app/node_modules/*
+app/platforms/android/*
+app/platforms/ios/*
+app/plugins/*
+app/www/lib/*
+
