@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 
-body {
+/* body {
     background: cadetblue;
+} */
+body {
+    background: currentColor;
 }
 
 .center-shit {
