@@ -11,8 +11,9 @@ App Mobile do projeto "Cadê meu carro?"
 
 ## Preparando o projeto
 
-1. Pelo terminal, navegue até a pasta www e dê um `bower update` para baixar as libs.
-2. Instale uma plataforma `cordova platform add <ios, android, windows....>`
+1. Pelo terminal, navegue até a pasta app e dê um `bower update` para baixar as libs.
+2. `npm install`
+3. Instale uma plataforma `cordova platform add <ios, android, windows....>`
 
 ## Executando no browser
 
